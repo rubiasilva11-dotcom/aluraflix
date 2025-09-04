@@ -1,0 +1,79 @@
+/*variaveis*/
+:root {
+--preto: #000;
+--branco: #fff;
+--lilas-claro: #eb76db;
+--azul-médio: #2f4dd1;
+--amarelo:#cfe80d;
+}
+/*corpo da página*/
+body {
+color: var(--branco);/*cor da fonte*/
+background-color: var(--preto);/*cor de fundo*/
+margin: 0px; /* não terá margem padrão*/
+}
+
+header {
+border: solid 2px;
+border-color: var(--branco);/*cor da borda*/
+padding: 20px;/*espaçamento interno*/
+font-size: 32px;/*tamanho da fonte*/
+color: var(--amarelo);/*cor da fonte*/
+}
+
+.chamada-texto {
+background-color: var(--amarelo);
+color: var(--preto);
+margin-right: 20px;/*margem a direita*/
+}
+
+.chamada {
+background: rgb(184, 156, 213);
+padding-bottom: 80px;/*espaçamento inferior*//*variaveis*/
+:root {
+--preto: #000;
+--branco: #fff;
+--lilas-claro: #eb76db;
+--azul-médio: #2f4dd1;
+--amarelo:#cfe80d;
+}
+/*corpo da página*/
+body {
+color: var(--branco);/*cor da fonte*/
+background-color: var(--preto);/*cor de fundo*/
+margin: 0px; /* não terá margem padrão*/
+}
+
+header {
+border: solid 2px;
+border-color: var(--branco);/*cor da borda*/
+padding: 20px;/*espaçamento interno*/
+font-size: 32px;/*tamanho da fonte*/
+color: var(--amarelo);/*cor da fonte*/
+}
+
+.chamada-texto {
+background-color: var(--amarelo);
+color: var(--preto);
+margin-right: 20px;/*margem a direita*/
+}
+
+.chamada {
+background: rgb(184, 156, 213);
+padding-bottom: 80px;/*espaçamento inferior*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
